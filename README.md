@@ -42,7 +42,7 @@ El objetivo de esta aplicación web, es encriptar un texto y desencriptarlo, baj
 
 ## ¿Cómo copiar el texto de salida encriptado o desencriptado?
 
-1. **Copiar Texto:**
+**Copiar Texto:**
    - Luego de encriptar o desencriptar, hacer click en botón "Copiar" para copiar el texto de salida al portapapeles del sistema. Al momento de "Copiar", se copiará al portapapeles el texto resultante, se limpiará de texto en la web el área para el texto resultante, en pantalla se visualizará un formulario modal con el enunciado "Texto Copiado!!!!", el texto resultante que está en portapapeles y un boton "Cerrar".
 
 ## Excepciones
