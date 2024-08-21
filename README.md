@@ -49,7 +49,7 @@ El objetivo de esta aplicación web, es encriptar un texto y desencriptarlo, baj
 
    - En caso de ingresar un texto encriptado o sin encriptar al área de entrada indicada como "Ingrese el texto aquí", con caracteres especiales o numeros o vocales con acento o el caracter "ñ"(lo que desde aquí denominaremos "caracteres inválidos"), bajo esta misma área y sobre los botones "Encriptar" y "Desencriptar", aparecerá la siguiente advertencia: 
 
-   ´´´Solo letras minúsculas y sin acentos´´´
+   ```Solo letras minúsculas y sin acentos```
 
    Esta advertencia desaparecerá cuando se eliminen todos los "Caractere inválidos" del area de entrada de texto.
 
