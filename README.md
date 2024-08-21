@@ -11,7 +11,7 @@ El objetivo de esta aplicación web, es encriptar un texto y desencriptarlo, baj
   - La letra "o" es convertida para "ober"
   - La letra "u" es convertida para "ufat"
 
-  - **Desencriptación de Texto:** Desencripta el texto ingresado de acuerdo a las siguientes reglas:
+- **Desencriptación de Texto:** Desencripta el texto ingresado de acuerdo a las siguientes reglas:
   - La letra "enter" es sustituido por "e" 
   - La letra "imes" es convertida por "i"
   - La letra "ai" es convertida por "a" 
